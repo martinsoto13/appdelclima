@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="bienvenida">Bienvenido a la aplicación del clima</string>
+    <string name="boton1">Pronóstico actual</string>S
+    <string name="boton2">Listado de ciudades</string>
+</resources>
